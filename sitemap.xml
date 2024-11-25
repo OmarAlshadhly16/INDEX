@@ -7,3 +7,7 @@
       <priority>1.0</priority>
    </url>
 </urlset>
+
+User-agent: *
+Disallow: /admin/
+Allow: /sitemap.xml
